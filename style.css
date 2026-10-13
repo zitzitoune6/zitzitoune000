@@ -106,3 +106,45 @@
     margin-top: 300px;
     font-size: 35px;
 }
+
+.titre-jeux
+{
+    margin-top: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 35px;
+    
+}
+.classement
+{
+    margin-top: 250px;
+}
+.jeuxcrame
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.heurestream
+{
+    font-size: 60px;
+   
+}
+.heurestream1
+{
+ margin-bottom: 700px;
+ margin-top: 250px;
+}
+.heurestream2
+{
+    font-size: 40px;
+}
+.conclusion
+{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    font-size: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
