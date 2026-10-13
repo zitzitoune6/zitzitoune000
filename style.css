@@ -1,11 +1,11 @@
 *
 {
-    color: darkslateblue;
+    color: white;
 }
 .fond,.oui
 {
-    background-color: blueviolet;
-    background-image: url('../1/gif.gif');
+    background-color: rgb(204, 0, 255);
+    background-image: url('../1/decord.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -76,6 +76,7 @@
     font-size: 40px;
     text-align: center;
     margin-top: 150px;
+    align-self: center;
 }
 
 .fin
@@ -90,4 +91,12 @@
     text-align: right;
     margin-top: 300px;
     font-size: 35px;
+}
+
+.main-table
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
 }
