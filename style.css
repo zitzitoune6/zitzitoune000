@@ -148,3 +148,31 @@
     margin-right: auto;
     text-align: center;
 }
+.titre-matos
+{
+    margin-top: 600px;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 400px;
+}
+.matos
+{
+    text-align: center;
+    font-size: 55px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 400px;
+}
+.li
+{
+    text-align: center;
+}
+.ul
+{
+    margin-bottom: 100px;
+}
+.li-top
+{
+    text-align: center;
+    margin-top: 100px;
+}
