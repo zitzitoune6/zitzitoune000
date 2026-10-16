@@ -176,3 +176,11 @@
     text-align: center;
     margin-top: 100px;
 }
+.interaction
+{
+    transition: 2s;
+}
+.interaction:hover{
+    scale: 1.3;
+    
+}
