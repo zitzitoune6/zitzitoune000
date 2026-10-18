@@ -37,6 +37,21 @@
                 <a href="https://www.tiktok.com/@zitzitoune000"><img src="logo-tiktok.webp" alt="tiktoklogo"> </a>
                 <p class="retour">Merci de votre visite j'espere<br>
             que mon site vous a plus ! :)</p> </footer>
+            <a href="https://freecodecamp.org" target="_active">Visit freeCodeCamp</a>
         </div>
+        <button onclick="demanderMotDePasse()">
+  <h1>Accéder à la page</h1>
+        </button>
+        <script>
+function demanderMotDePasse() {
+  const motDePasse = prompt("Entrez le mot de passe :");
+
+  if (motDePasse === "1234") {
+    window.location.href = "mesjeux.html";
+  } else if (motDePasse !== null) {
+    alert("Mot de passe incorrect !");
+  }
+}
+</script>
     </body>
 </html>
